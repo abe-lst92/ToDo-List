@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://s32388.pcdn.co/wp-content/uploads/2017/06/Italy-Must-Visit-Destinations-768x512.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.wrapper{
+    display: inline-block;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 40%;
+border: ridge 10px goldenrod;
+
+}
+
+.card{
+    color: red;
+    text-align: center;
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: bolder;
+}
